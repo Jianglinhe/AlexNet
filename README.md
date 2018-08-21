@@ -1,2 +1,2 @@
 # AlexNet
-- use AlexNet to predict MNIST
+build a AlexNet 
